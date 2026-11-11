@@ -1,3 +1,10 @@
+# [1.48.0-dev.1](https://github.com/MR-JAGANMOHAN/morphe-patches/compare/v1.47.1-dev.2...v1.48.0-dev.1) (2026-11-11)
+
+
+### Features
+
+* apply Duolingo 6.104.5 and Google login patches ([#1194](https://github.com/MR-JAGANMOHAN/morphe-patches/issues/1194), [#1195](https://github.com/MR-JAGANMOHAN/morphe-patches/issues/1195)) ([3a2f20e](https://github.com/MR-JAGANMOHAN/morphe-patches/commit/3a2f20e016b55152df574c3a1704d3d3def1dd3a))
+
 ## [1.47.1-dev.2](https://github.com/hoo-dles/morphe-patches/compare/v1.47.1-dev.1...v1.47.1-dev.2) (2026-10-27)
 
 
