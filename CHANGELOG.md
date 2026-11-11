@@ -1,3 +1,11 @@
+## [1.47.1](https://github.com/MR-JAGANMOHAN/morphe-patches/compare/v1.47.0...v1.47.1) (2026-11-11)
+
+
+### Bug Fixes
+
+* Fix transitive `slf4j` dependency exclusion causing issues with new JVM patcher ([e53dd05](https://github.com/MR-JAGANMOHAN/morphe-patches/commit/e53dd05ba2edcda5e606e445e4b7349a6f1fdc83))
+* **Lyfta:** Spoof install source ([74c4f93](https://github.com/MR-JAGANMOHAN/morphe-patches/commit/74c4f93ddafbf1ede17c3856e38116ddfb3b94c8))
+
 ## [1.47.1-dev.2](https://github.com/hoo-dles/morphe-patches/compare/v1.47.1-dev.1...v1.47.1-dev.2) (2026-10-27)
 
 
